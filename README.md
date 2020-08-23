@@ -1,3 +1,2 @@
 # Qsabers
-My pubic repo of Qsabers (When I Make Them)
-new Qsabers will have their source code added into this branch first then will be published in the "Finished" branch
+Here is a list of all my published qsabers!
